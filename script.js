@@ -167,7 +167,7 @@ function init() {
   }
 
 
-  getUserData(url + "thepranaygupta");
+  getUserData(url + "PretamMohanta");
 }
 
 init();
